@@ -9,7 +9,7 @@
 
 mohamedhassansulatan@gmail.com
 
-### Preview
+### Preview on google play
 
 <center><a href="https://play.google.com/store/apps/details?id=com.zamalekfans" target="_blank"><img src="https://lh3.googleusercontent.com/zZq7mXMV0PKlQcaFIUbEkVgdA3usUxJVYDLtliEO7OdsHA3mPOgwiWeN8HKdLv6DVHE=w720-h310-rw" width="200" height="300" border="10" /></a></center>
 
